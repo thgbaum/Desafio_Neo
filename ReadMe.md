@@ -1,6 +1,6 @@
-# Desafio Neo
+# Desafio Neoprospecta
 
-## Qualidade dos dados brutos
+## Qualidade dos dados 
 
 Command *bash scripts/quality.sh* 
 * Generates fastqc results, before trimming, on **raw_fastqc** folder
