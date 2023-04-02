@@ -1,0 +1,9 @@
+#folders
+fqs/*
+resultados/*
+
+#files format
+*.fastq
+*.fastqc
+*.html
+*.zip

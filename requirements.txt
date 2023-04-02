@@ -1,0 +1,3 @@
+fastqcparser
+multiqc
+pandas

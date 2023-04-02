@@ -1,0 +1,5 @@
+sudo apt install unzip
+wget https://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.12.1.zip
+unzip fastqc_v0.12.1.zip 
+chmod 755 fastqc
+fastqc
