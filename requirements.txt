@@ -1,3 +1,4 @@
 fastqcparser
 multiqc
 pandas
+biopython
