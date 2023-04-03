@@ -16,7 +16,7 @@
 
 ## Data Quality
 
-Command *bash scripts/quality.sh* 
+### Command *bash scripts/quality.sh* 
 * Generates fastqc results, before trimming, on **raw_fastqc** folder
 * input:
     * fastq data in folder **fqs**
@@ -25,10 +25,10 @@ Command *bash scripts/quality.sh*
     * fastqc data in folder **raw_fastqc**
     * file **raw_fastqc/multiqc_report** sumarizes quality for given data
 
-Command *bash scripts/trim.sh*
+### Command *bash scripts/trim.sh*
 * Trims fastqs from **fqs** folder and saves trimmed fastqs in **trimmed/fqs** folder
 
-Command *bash scripts/quality_trimmed_data.sh*
+### Command *bash scripts/quality_trimmed_data.sh*
 * Generates fastqc results, after trimming, on **trimmed/trimmed_fastqc** folder
 * input: 
     * trimmed fastq files from **trimmed/fqs** folder
@@ -37,10 +37,10 @@ Command *bash scripts/quality_trimmed_data.sh*
     * fastqc data in **trimmed_trimmed_fastqc** folder
     * file **trimmed/trimmed_fastqc/multiqc_report** sumarizes quality for given trimmed data
 
-##  Analysis of OTU and TAX tables
+## Analysis of OTU and TAX tables
 * 2.1 graphic bar can be visualized at https://colab.research.google.com/drive/1KHU2EsdevxtKBS0YB5EfMCDGdVy4pjAy?usp=sharing
 
-## 
+## Questões Dissertativas
 * 3.1
     * Montagem -> Usar ferramentas como Velvet, A5 e Newbler
     * Anotação -> Prokka
