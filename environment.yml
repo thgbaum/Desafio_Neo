@@ -2,5 +2,6 @@ name: mice_analysis
 dependencies:
   - python=3.8
   - pip
+  - unzip
   - pip:
     - -r requirements.txt
