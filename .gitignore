@@ -1,10 +1,10 @@
 #folders
-fqs/*
-resultados/*
+#fqs/*
+#resultados/*
 
 #files format
-*.fastq
-*.fastqc
-*.html
-*.zip
-*.fasta
+#*.fastq
+#*.fastqc
+#*.html
+#*.zip
+#*.fasta
